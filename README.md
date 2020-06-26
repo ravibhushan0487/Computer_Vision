@@ -9,5 +9,6 @@ Pending Files to be uploaded:
 7. Coding a Perceptron
 8. Support Vector Machines
 9. Image Classification on CIFAR-10
-10. DC-GAN
-11. Handwritten Digit Recognition using TensorFlow and MNIST dataset
+10. Face Recognition
+11. DC-GAN
+12. Handwritten Digit Recognition using TensorFlow and MNIST dataset
